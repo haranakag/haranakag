@@ -34,9 +34,10 @@ Hello! I am Gilberto Haranaka and Welcome to my Github.
 - Scrum.Org
   - Professional Scrum Master I (PSM I)
 
-### 📫 How to reach me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gilberto.haranaka@gmail.com)
+### 📫 HOW TO REACH ME
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbertoharanaka/)
+OR mail to: gilberto.haranaka@gmail.com
 
 <p align="center">
   <a href="https://skillicons.dev">
