@@ -2,15 +2,9 @@
 
 Hello! I am Gilberto Haranaka and Welcome to my Github.
 
-<p style="text-align: justify;">
-- 🔭 I’m currently working on UFMS as a Cloud Analyst;
-</p>
-<p style="text-align: justify;">
-- 🌱 I’m currently learning AWS Security Tools;
-</p>
-<p style="text-align: justify;">
-- 💬 Ask me about anything related to carreer, certifications, courses, related to Cloud Computing;
-</p>
+## 🔭 I’m currently working on:
+- UFMS as a Cloud Analyst;
+- Escola da Nuvem as a Carreer Mentor and Soft Skills Trainer
 
 ### CERTIFICAÇÕES
 
