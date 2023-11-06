@@ -1,3 +1,5 @@
+<img src="Banner - Gilberto Haranaka - Cloud Engineer.png">
+
 # BIO
 
 Hello! I am Gilberto Haranaka and Welcome to my Github.
