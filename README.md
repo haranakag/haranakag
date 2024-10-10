@@ -5,12 +5,13 @@
 Hello! I am Gilberto Haranaka and Welcome to my Github.
 
 ## 🔭 I’m currently working on:
-- UFMS as a Cloud Analyst;
+- NTT Data Business Solutions as a Cloud Infrastructure Analyst;
 - Escola da Nuvem as a Carreer Mentor and Soft Skills Trainer
 
 ### CERTIFICAÇÕES
 
 - AWS
+  - Security Specialty
   - Solutions Architect Associate
   - Certified Cloud Practitioner
 
