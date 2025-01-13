@@ -6,7 +6,6 @@ Hello! I am Gilberto Haranaka and Welcome to my Github.
 
 ## 🔭 I’m currently working on:
 - NTT Data Business Solutions as a Cloud Infrastructure Analyst;
-- Escola da Nuvem as a Carreer Mentor and Soft Skills Trainer
 
 ### CERTIFICAÇÕES
 
@@ -20,6 +19,12 @@ Hello! I am Gilberto Haranaka and Welcome to my Github.
   - Azure Fundamentals (AZ-900)
   - Security, Compliance, and Identity Fundamentals (SC-900)
   - Azure AI Fundamentals (AI-900)
+
+- The Linux Foundation
+  - Kubernetes and Cloud Native Associate
+  
+- EXIN
+  - Information Security Foundation based on ISO/IEC 27001
 
 - ISC2
   - Certified in Cybersecurity (CC)
@@ -46,3 +51,5 @@ OR mail to: gilberto.haranaka@gmail.com
 
 - ✈️ I have the basic knowledge of aeronautical maintenance
 - 🔨 I have made some furnitures with MDF
+- Love nature, aquaponics, harvest some fish and crops at the backyard.
+- One graduation, Three specs and One master degree.
