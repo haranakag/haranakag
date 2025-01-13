@@ -7,33 +7,34 @@ Hello! I am Gilberto Haranaka and Welcome to my Github.
 ## 🔭 I’m currently working on:
 - NTT Data Business Solutions as a Cloud Infrastructure Analyst;
 
+### EDUCATION
+
+- Graduation: Computer Networks
+- Postgraduation:
+  - Project Management
+  - Environmental Management
+  - Risks and Cybersecurity Management
+  - Teaching in Professional and Technological Education (Current)
+- Master Degree: Public Administration
+
 ### CERTIFICATIONS
 
-- AWS
+## AWS
   - Security Specialty
   - Solutions Architect Associate
   - Certified Cloud Practitioner
-
-- Microsoft
+## Microsoft
   - Azure Administrator (AZ-104)
   - Azure Fundamentals (AZ-900)
   - Security, Compliance, and Identity Fundamentals (SC-900)
   - Azure AI Fundamentals (AI-900)
-
-- The Linux Foundation
+## The Linux Foundation
   - Kubernetes and Cloud Native Associate
-  
-- EXIN
+## EXIN
   - Information Security Foundation based on ISO/IEC 27001
-
-- ISC2
+## ISC2
   - Certified in Cybersecurity (CC)
-
-- Fortinet
-  - Certified Associate Cybersecurity (FCAC)
-  - Certified Fundamentals Cybersecurity (FCFC)
-
-- Scrum.Org
+## Scrum.Org
   - Professional Scrum Master I (PSM I)
 
 ### 📫 HOW TO REACH ME
