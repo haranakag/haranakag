@@ -19,22 +19,22 @@ Hello! I am Gilberto Haranaka and Welcome to my Github.
 
 ### CERTIFICATIONS
 
-## AWS
+- AWS
   - Security Specialty
   - Solutions Architect Associate
   - Certified Cloud Practitioner
-## Microsoft
+- Microsoft
   - Azure Administrator (AZ-104)
   - Azure Fundamentals (AZ-900)
   - Security, Compliance, and Identity Fundamentals (SC-900)
   - Azure AI Fundamentals (AI-900)
-## The Linux Foundation
+- The Linux Foundation
   - Kubernetes and Cloud Native Associate
-## EXIN
+- EXIN
   - Information Security Foundation based on ISO/IEC 27001
-## ISC2
+- ISC2
   - Certified in Cybersecurity (CC)
-## Scrum.Org
+- Scrum.Org
   - Professional Scrum Master I (PSM I)
 
 ### 📫 HOW TO REACH ME
