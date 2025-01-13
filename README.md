@@ -5,7 +5,7 @@
 Hello! I am Gilberto Haranaka and Welcome to my Github.
 
 ## 🔭 I’m currently working on:
-- NTT Data Business Solutions as a Cloud Infrastructure Analyst;
+- [NTT Data Business Solutions](https://www.linkedin.com/company/ntt-data-business-solutions) as a Cloud Infrastructure Analyst;
 
 ### EDUCATION
 
@@ -29,7 +29,7 @@ Hello! I am Gilberto Haranaka and Welcome to my Github.
   - Security, Compliance, and Identity Fundamentals (SC-900)
   - Azure AI Fundamentals (AI-900)
 - The Linux Foundation
-  - Kubernetes and Cloud Native Associate
+  - Kubernetes and Cloud Native Associate (KCNA)
 - EXIN
   - Information Security Foundation based on ISO/IEC 27001
 - ISC2
