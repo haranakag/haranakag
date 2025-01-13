@@ -7,7 +7,7 @@ Hello! I am Gilberto Haranaka and Welcome to my Github.
 ## 🔭 I’m currently working on:
 - NTT Data Business Solutions as a Cloud Infrastructure Analyst;
 
-### CERTIFICAÇÕES
+### CERTIFICATIONS
 
 - AWS
   - Security Specialty
