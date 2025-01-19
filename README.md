@@ -52,7 +52,7 @@ https://www.linkedin.com/in/gilbertoharanaka/ OR mail to: gilberto.haranaka@gmai
     <img src="https://skillicons.dev/icons?i=aws,azure,terraform,github,linux,windows,grafana,docker,kubernetes,vscode,sketchup" />
   </a>
 </p>
------------'
+-----------
 ### 👽  Another stuffs:
 
 - ✈️ I have the basic knowledge of aeronautical maintenance
