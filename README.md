@@ -3,6 +3,7 @@
 # BIO
 
 Hello! I am Gilberto Haranaka and Welcome to my Github.
+Working with communications technologies since 2003.
 
 ## 🔭 I’m currently working on:
 - [NTT Data Business Solutions](https://www.linkedin.com/company/ntt-data-business-solutions) as a Cloud Infrastructure Analyst;
@@ -52,7 +53,8 @@ https://www.linkedin.com/in/gilbertoharanaka/ OR mail to: gilberto.haranaka@gmai
     <img src="https://skillicons.dev/icons?i=aws,azure,terraform,github,linux,windows,grafana,docker,kubernetes,vscode,md,sketchup" />
   </a>
 </p>
----------------------
+
+----------------------------------------------------
 
 ### 👽  Another stuffs:
 
