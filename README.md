@@ -39,15 +39,20 @@ Hello! I am Gilberto Haranaka and Welcome to my Github.
 
 ### 📫 HOW TO REACH ME
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbertoharanaka/)
-OR mail to: gilberto.haranaka@gmail.com
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,github,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
   </a>
 </p>
+https://www.linkedin.com/in/gilbertoharanaka/ OR mail to: gilberto.haranaka@gmail.com
 
+------------
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,terraform,github,linux,windows,grafana,docker,kubernetes,vscode,sketchup" />
+  </a>
+</p>
+-----------'
 ### 👽  Another stuffs:
 
 - ✈️ I have the basic knowledge of aeronautical maintenance
