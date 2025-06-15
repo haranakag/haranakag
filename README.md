@@ -10,12 +10,11 @@ Working with communications technologies since 2003.
 
 ### EDUCATION
 
-- Graduation: Computer Networks
+- Graduation:
+  - Computer Networks
+  - Data Science (current)
 - Postgraduation:
   - Project Management
-  - Environmental Management
-  - Risks and Cybersecurity Management
-  - Teaching in Professional and Technological Education (Current)
 - Master Degree: Public Administration
 
 ### CERTIFICATIONS
@@ -29,6 +28,8 @@ Working with communications technologies since 2003.
   - Azure Fundamentals (AZ-900)
   - Security, Compliance, and Identity Fundamentals (SC-900)
   - Azure AI Fundamentals (AI-900)
+- Google Cloud
+  - Google Cloud Certified Digital Leader 
 - The Linux Foundation
   - Kubernetes and Cloud Native Associate (KCNA)
 - EXIN
@@ -61,4 +62,4 @@ https://www.linkedin.com/in/gilbertoharanaka/ OR mail to: gilberto.haranaka@gmai
 - ✈️ I have the basic knowledge of aeronautical maintenance
 - 🔨 I have made some furnitures with MDF
 - Love nature, aquaponics, harvest some fish and crops at the backyard.
-- One graduation, Three specs and One master degree.
+- One graduation and half, Three specs and One master degree.
